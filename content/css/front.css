@@ -28,13 +28,13 @@ h1 {
     color: black;
     font-weight: bold;
     letter-spacing: 0.1em;
-    font-size: 4em;
+    font-size: 5em;
     font-family: 'Open Sans';
     margin: -10px 0;
 }
 h3 {
     color: black;
-    padding-bottom: 20px;
+    padding-bottom: 24px;
     font-weight: thin;
 }
 .content {
