@@ -53,8 +53,8 @@ li {
     margin: 8px;
     display: inline-block;
     list-style: none;
-    width: 65px;
-    height: 65px;
+    width: 70px;
+    height: 70px;
 }
 li:hover {
     color: black;
